@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: k8sapp01
+spec:
+  selector:
+    matchLabels:
+      app: k8sapp01-pod
+  template:
+    metadata:
+      labels:
+        app: k8sapp01-pod
+    spec:
+      containers:
+      - name: k8sapp01-container
+        image: <Image>
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 5000

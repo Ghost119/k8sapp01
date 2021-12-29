@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IG55/UoVod54QLqTXvn1PIlyOvurTIcN5b3jSzg4dnF6krtEzsILjrxVXe7fBN8Q+eegDEWJ+u1nIVHiBihEWQ==",
+  "success": true,
+  "projectFilePath": "C:\\cloud-native-02\\K8sapp01\\k8sapp01\\k8sapp01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adminuser\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\adminuser\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adminuser\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\adminuser\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\adminuser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\adminuser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
