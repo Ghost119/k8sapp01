@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: k8sapp01-container
-        image: <Image>
+        image: barclaysacr02.azurecr.io/k8sapp01:latest
         resources:
           limits:
             memory: "128Mi"
